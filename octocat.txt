@@ -42,4 +42,4 @@ Initialized empty Git repository in /root/work/octobox/.git/
 root@c1-10-1-0-56:~/work/octobox# ls
 root@c1-10-1-0-56:~/work/octobox# git status
 On branch master
-
+1. cat's
